@@ -9,7 +9,7 @@ scrpit name = sys.argv[0]
 name = "Deeksha"
 rollno = "101"
 print("No input given - using default values:")
-print("Script Name:",script_name)
+print("Script Name:",script name)
 print("Student Name:",name)
 print("Roll Number:",rollno)
 
